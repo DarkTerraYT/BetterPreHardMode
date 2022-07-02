@@ -1,0 +1,69 @@
+﻿Mods:{
+	BetterPreHardMode:{
+		ItemName:{
+			CroniumBar:"Cronium Bar"
+			CroniumOre:"Cronium Ore"
+
+
+			BrassAxe:"Cronium Axe"
+			BrassHammer:"Cronium Hammer"
+			BrassPickaxe:"Cronium Pickaxe"
+			BrassMultiTool:"Cronium Multitool"
+
+			CroniumLongSword:"Cronium Longsword"
+			CroniumSword:"Cronium Broadsword"
+
+			SoullItem:"Soul"
+			Jade: "Jade"
+
+			CroniumStaff:"Cronium Staff"
+
+			SoulAxe:"Soul Axe"
+			SoulHammer:"Soul Hammer"
+			SoulPickaxe:"Soul Piackaxe"
+			SoulMultiTool:"Soul Multitool"
+
+			SoulLongSword:"Soul Longsword"
+			SoulSword:"Soul Broadsword"
+		}
+
+		ItemTooltip:{
+			BrassAxe:"Choppy"
+			BrassHammer:"Smashy"
+			BrassPickaxe:"Miney"
+			BrassMultiTool:"Choppy, Miney AND Smashy all in one!"
+
+			CroniumLongSword:"Use The Power Of Ultimaisum"
+			CroniumSword:"Stabby Stabby."
+			CroniumStaff:"I Have The Power OF Mana On My Side!"
+
+			SoulAxe:"Chops Right Through The Trees!"
+			SoulPickaxe:"Gotta Mine Them Ores!!"
+			SoulMultiTool:"The Power OF The Three Tools"
+
+			SoulLongSword:"Shoot Em' Down With The Souls Of The Fallen"
+			SoulSword:"Goes Right Into There Hearts!"
+			SoulWand:"Empowered Souls. Funky!"
+
+			SoulItem:"Who Ya Gonna Call? Ghost Busters!"
+			Jade:"I Hate Jade Green - Creator"
+		}
+
+		MapObject:{
+			CroniumOres:"Cronium Ore"
+			HardenedSoul:"Hardened Soul"
+			CroniumBar:"Cronium Bars"
+			AncientCroniumBar:"Ancient Cronium Bars"
+			SoulEmpowerer:"Soul Empowerer"
+			AncientForge:"Ancient Forge"
+		}
+
+		ProjectileName:{
+			CroniumStaffProjectile:"Cronium Bolt"
+			EmpoweredSoulProjectile:"Empowered Soul"
+			AncientShuriken:"Ancient Shuriken"
+		}
+	
+	}
+
+}
